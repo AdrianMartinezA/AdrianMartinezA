@@ -26,6 +26,5 @@ Desarrollador de Aplicaciones Web junior (actualmente cursando 2º año de DAW) 
 
 ### 📫 Conecta conmigo
 
-- **LinkedIn:** [linkedin.com/in/adrian-martinez](https://linkedin.com/in/adrian-martinez)
+- **LinkedIn:** [linkedin.com/in/adrian-martinez](https://www.linkedin.com/in/adri%C3%A1n-mart%C3%ADnez-alarc%C3%B3n-7ba043275/)
 - **Email:** drypa94@gmail.com
-- **Portfolio:** [tu-portfolio.dev](https://tu-portfolio.dev)
