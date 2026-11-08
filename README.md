@@ -19,7 +19,7 @@ Desarrollador de Aplicaciones Web junior (actualmente cursando 2º año de DAW) 
 
 ### 🚀 Proyectos Destacados
 
-- 📼 **[RetroVideo](https://github.com/drypa94/RetroVideo):** Sistema integral de videoclub con backend en Java 21 (JPA/Hibernate), base de datos relacional MySQL, frontend interactivo y especificación de API con OpenAPI 3.0.
+- 📼 **[RetroVideo](https://github.com/AdrianMartinezA/Retro-Video):** Sistema integral de videoclub con backend en Java 21 (JPA/Hibernate), base de datos relacional MySQL, frontend interactivo y especificación de API con OpenAPI 3.0.
 - 📅 **Integración Web & CRM:** Conexión automatizada de reservas y flujo de datos conectando WordPress con servicios externos y APIs de gestión médica.
 
 ---
